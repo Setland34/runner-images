@@ -388,3 +388,5 @@ Use the following command as a part of your job to start the service: 'sudo syst
 | zip                    | 3.0-12build2                        |
 | zsync                  | 0.6.2-3ubuntu1                      |
 
+### Note
+The `ubuntu-latest` label now points to `ubuntu-24.04`.
